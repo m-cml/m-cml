@@ -1,43 +1,56 @@
-Mustafa ÇİMİLİ – Software Learner & Developer
+# Mustafa ÇİMİLİ – Software Learner & Developer
 
-Hi! I'm Mustafa ÇİMİLİ, a developer starting from scratch and working toward becoming a professional in the software world. I am currently learning Python, web development, and Firestore-based structures.
+Hi! I'm **Mustafa ÇİMİLİ**, a developer who is starting from scratch and working towards becoming a professional in the software world. I am actively learning Python, web development, and Firestore-based structures.
 
-About Me
+* * *
 
-Learning software from zero to advanced level.
+## 🚀 About Me
 
-Following a structured, day-by-day Python learning path.
+- Currently learning software **from zero to advanced level**.
+    
+- Following a detailed, day-by-day Python learning plan.
+    
+- Actively developing projects in VS Code.
+    
+- Working on web development basics, Firestore data modeling, and JavaScript fundamentals.
+    
+- Keeping everything organized in two notebooks: **Project Notebook** and **Learning Notes Notebook**.
+    
 
-Actively developing projects using VS Code.
+* * *
 
-Working on web development basics, Firestore data modeling, and JavaScript fundamentals.
+## 🛠️ Technical Skills
 
-Keeping progress organized in two notebooks: Project Notebook and Learning Notes Notebook.
+### 🔹 Programming & Development
 
-Technical Skills
+- **Python** (from beginner to advanced level)
+    
+- **HTML / CSS / JavaScript**
+    
+- **C#**
+- **MSSQL**
+- **Firestore** (basic collection structure, models, service layers)
+    
+- **VS Code**
+    
 
-Programming & Development
+* * *
 
-Python (beginner to advanced level learning)
+## 🎯 Goals
 
-HTML / CSS / JavaScript
+- Become a **full‑stack developer**.
+    
+- Gain advanced‑level expertise in Python.
+    
+- Build projects using Firestore and modern web technologies.
+    
+- Develop larger and more advanced software applications.
+    
 
-Firestore (basic collection structure, models, and service layers)
+* * *
 
-VS Code
+## 📞 Contact
 
-Goals
-
-Become a full-stack developer.
-
-Gain advanced-level Python expertise.
-
-Build projects using Firestore and modern web technologies.
-
-Create larger and more advanced software applications.
-
-Contact
-
-GitHub: (this repository)
-
-Email: can be added if needed
+- **GitHub:** (This repository)
+    
+- **Email:** mustafacimili@hotmail.com
